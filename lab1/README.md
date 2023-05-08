@@ -1,0 +1,2 @@
+# cs1050fs2021lab1
+Mizzou CS1050 FS2021 Lab 1
